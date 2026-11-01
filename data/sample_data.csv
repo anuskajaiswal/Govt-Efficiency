@@ -1,0 +1,8 @@
+sector,state,city,facility,wait,processing,cost,complaints,coverage,satisfaction
+Hospitals,Sample State,Sample City,Sample Hospital A,42,18,30,12,78,3.8
+Hospitals,Sample State,Sample City,Sample Hospital B,65,25,25,20,64,3.1
+Hospitals,Sample State,Sample City,Sample Clinic C,28,10,15,5,85,4.2
+Hospitals,Sample State,Sample City,Sample Hospital D,55,22,40,16,70,3.4
+Hospitals,Sample State,Sample City,Sample Clinic E,,,,,,
+Hospitals,Sample State,Sample City,Sample Hospital F,38,15,35,9,81,4.0
+Hospitals,Sample State,Sample City,Sample Clinic G,48,,20,11,,3.6
