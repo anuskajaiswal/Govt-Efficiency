@@ -6,4 +6,7 @@ sector,state,city,facility,wait_min,wait_max,processing_min,processing_max,cost,
     Hospitals,Karnataka,Bengaluru Urban,NIMHANS,60,120,45,60,20,,,,4.3,
     Hospitals,Karnataka,Bengaluru Urban,"General Hospital, Jayanagar",20,45,15,30,20,,17,35,3.6,
     Hospitals,Karnataka,Bengaluru Urban,ESI Hospital (Rajajinagar),30,60,20,40,0,,100,100,3.7,Free for IP cardholders (ESIC)
-    Hospitals,Karnataka,Bengaluru Urban,RGICD (Chest Diseases),25,50,20,30,20,,,,3.8,
+    Hospitals,Karnataka,Bengaluru Urban,RGICD (Chest Diseases),25,50,20,30,20,,,,3.8,Hospitals,Karnataka,Bengaluru Rural,Akash Hospital Devanahalli,30,60,25,40,1500,,60,80,3.8,
+Hospitals,Karnataka,Bengaluru Rural,MVJ Medical College and Research Hospital,40,70,30,50,1000,,55,75,3.7,
+Hospitals,Karnataka,Bengaluru Rural,Manasa Hospital Doddaballapur,35,55,25,45,800,,50,70,3.6,
+Hospitals,Karnataka,Bengaluru Rural,Leena Multispeciality Hospital Devanahalli,40,65,30,50,1200,,58,76,3.7,
