@@ -1,1 +1,9 @@
 sector,state,city,facility,wait_min,wait_max,processing_min,processing_max,cost,complaints,coverage_min,coverage_max,satisfaction,notes
+    Hospitals,Karnataka,Bengaluru Urban,Victoria Hospital (BMCRI),45,90,30,45,20,,17,35,3.4,
+    Hospitals,Karnataka,Bengaluru Urban,KC General Hospital,30,60,20,35,20,,17,35,3.5,
+    Hospitals,Karnataka,Bengaluru Urban,Bowring & Lady Curzon,45,75,25,40,20,,17,35,4.0,
+    Hospitals,Karnataka,Bengaluru Urban,Vanivilas Women & Children,60,90,30,50,20,,88.7,90.9,3.9,
+    Hospitals,Karnataka,Bengaluru Urban,NIMHANS,60,120,45,60,20,,,,4.3,
+    Hospitals,Karnataka,Bengaluru Urban,"General Hospital, Jayanagar",20,45,15,30,20,,17,35,3.6,
+    Hospitals,Karnataka,Bengaluru Urban,ESI Hospital (Rajajinagar),30,60,20,40,0,,100,100,3.7,Free for IP cardholders (ESIC)
+    Hospitals,Karnataka,Bengaluru Urban,RGICD (Chest Diseases),25,50,20,30,20,,,,3.8,
